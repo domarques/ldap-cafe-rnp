@@ -14,8 +14,6 @@ TODO
 References
 ------
 
-http://www.rnp.br/servicos/servicos-avancados/cafe
-
-https://wiki.rnp.br/pages/viewpage.action?pageId=69968456
-
-https://wiki.rnp.br/pages/viewpage.action?pageId=69968769
+* http://www.rnp.br/servicos/servicos-avancados/cafe
+* https://wiki.rnp.br/pages/viewpage.action?pageId=69968456
+* https://wiki.rnp.br/pages/viewpage.action?pageId=69968769
