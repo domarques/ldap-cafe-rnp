@@ -1,7 +1,7 @@
 LDAP CAFe/RNP olc conversion
 =====
 
-Migration from old OpenLDAP configuration to olc (online), available since OpenLDAP 2.3.
+Migration from old configuration to olc (online), available on OpenLDAP since version 2.3.
 
 TODO
 ------
