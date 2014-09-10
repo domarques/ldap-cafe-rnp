@@ -6,10 +6,10 @@ Migration from old OpenLDAP configuration to olc (online), available since OpenL
 TODO
 ------
 
-*~~Migrate schemas to ldif format~~
+* ~~Migrate schemas to ldif format~~
 * Migrate scripts
-*Rebuild `popula.sh` script
-*"Puppetize" setup?
+* Rebuild `popula.sh` script
+* "Puppetize" setup?
 
 References
 ------
