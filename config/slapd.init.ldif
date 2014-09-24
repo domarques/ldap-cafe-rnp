@@ -12,10 +12,6 @@ olcLogLevel: none
 # The tool-threads parameter sets the actual amount of cpu's that is used
 # for indexing.
 olcToolThreads: 1
-# Security
-olcSecurity: ssf=128
-olcSecurity: simple_bind=128
-olcSecurity: tls=128
 # Certificates
 olcTLSCACertificateFile: /etc/ldap/@HOSTNAME@.crt
 olcTLSCertificateFile: /etc/ldap/@HOSTNAME@.crt
@@ -54,7 +50,7 @@ include: file:///etc/ldap/schema/inetorgperson.ldif
 # CAFe schemas
 include: file:///etc/ldap/schema/eduperson.ldif
 include: file:///etc/ldap/schema/breduperson.0.0.6.ldif
-include; file:///etc/ldap/schema/schac-20061212-1.3.0.ldif
+include: file:///etc/ldap/schema/schac-20061212-1.3.0.ldif
 
 # Load module
 dn: cn=module{0},cn=config
